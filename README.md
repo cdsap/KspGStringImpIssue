@@ -1,4 +1,4 @@
-### Ksp issue with Android project using groovy.
+### Ksp issue with Android project using groovy
 
 #### Error
 ```
