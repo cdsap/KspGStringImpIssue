@@ -11,7 +11,7 @@
 1. Clone repo
 2. Execute `./gradlew :app:assembleDebug`
 
-More details on the stacktrace https://ge.solutions-team.gradle.com/s/tuqnaigqc5yyq/failure#1
+More details on the stacktrace https://ge.solutions-team.gradle.com/s/apu5gdqtu7wqq/failure#1
 
 
 ### Notes
