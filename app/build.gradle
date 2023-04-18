@@ -61,8 +61,6 @@ class RoomSchemaArgProvider implements CommandLineArgumentProvider {
 
     @Override
     Iterable<String> asArguments() {
-        // Note: If you're using KSP, change the line below to return
-        // ["room.schemaLocation=${schemaDir.path}"].
-        return ["-Aroom.schemaLocation=${schemaDir.path}"]
+        return ["room.schemaLocation=${schemaDir.path}"]
     }
 }
